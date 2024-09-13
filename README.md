@@ -65,3 +65,9 @@ This project is a simple RESTful API for a blog application built using Python, 
     "updatedAt": "2021-09-01T12:00:00Z"
 }
 ```
+
+## Additional Information
+
+I have completed this project as listed on roadmap.sh
+
+https://roadmap.sh/projects/blogging-platform-api
