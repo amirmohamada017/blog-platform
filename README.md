@@ -16,8 +16,8 @@ This project is a simple RESTful API for a blog application built using Python, 
 1. Clone the repository:
 
     ```
-    git clone https://github.com/amirmohamada017/blog-api-platform.git
-    cd blog-api-platform
+    git clone https://github.com/amirmohamada017/blog-platform.git
+    cd blog-platform
     ```
 
 2. Install the required packages:
